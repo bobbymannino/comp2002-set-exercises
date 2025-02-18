@@ -3,11 +3,11 @@
 ## Introduction
 
 The topic I have chosen is *Search Engines*. Firstly what are search engines?
-Well they essentially a big phone book. A search engine has to have an indexed
-list (of colossal size) that can be searched through. A search engines purpose
-is to take in a query (what a user is searching for) and output a list of
-responses that most closely could be what the user is looking for. The secret of
-a search engine is the algorithm that it uses.
+Well they are essentially a big phone book. A search engine has to have an
+indexed list (of colossal size) that can be searched through. A search engines
+purpose is to take in a query (what a user is searching for) and output a list
+of responses that most closely could be what the user is looking for. The secret
+of a search engine is the algorithm that it uses.
 
 The biggest search engine is by far Google, and they have their own engine,
 which uses their own SEO algorithm to get the best results. In recent years
